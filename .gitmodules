@@ -1,3 +1,0 @@
-[submodule "models/stylegan2-pytorch"]
-	path = models/stylegan2
-	url = https://github.com/rosinality/stylegan2-pytorch.git
